@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Xuan Nhi - or Cenie
+- 👀 I’m interested in natural surroundings activities like hiking, trekking, jogging,...
+- 🌱 I’m currently learning OOP of Java and Cpp
+- 📫 How to reach me: ntxuannhi9205@gmail.com
+- 😄 Pronouns: she/ em 
+- ⚡ Fun fact: if i were an animal, i'd love to be a wild horse :> 
