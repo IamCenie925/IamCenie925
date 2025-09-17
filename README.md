@@ -28,8 +28,8 @@
 ---
 
 ## 📂 Featured Projects
-- 🏠 **[Cenie_PhongTro3](https://github.com/cenie925/Cenie_PhongTro3)** – Rental Room Management (C# .NET, WinForms, Blazor, SQL Server)  
-- 📝 **CNOTE Thinkboard** – Note-taking web app (MERN stack, Render deployment)  
+- 🏠 **[Room Rental Management System](https://github.com/cenie925/Cenie_PhongTro)** – Rental Room Management (C# .NET, WinForms, Blazor, SQL Server)  
+- 📝 **[CNOTE - A Thinkboard](https://github.com/IamCenie925/mern-CnoteAThinkboard)** – Note-taking web app (MERN stack, Render deployment)  
 - ⏳ More projects coming soon...
 
 ---
