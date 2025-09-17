@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xuân Nhi (aka Cenie)
+# 👋 Hello World, I'm Xuân Nhi (aka Cenie)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cenie925&style=flat-square&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/cenie925?style=social)
