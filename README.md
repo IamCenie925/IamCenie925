@@ -9,7 +9,7 @@
 ## 🌱 About Me
 - 🎓 3rd-year Computer Science student  
 - 💻 Passionate about **Backend Development** and **Full-stack projects**  
-- 🚀 Currently learning **.NET, MERN Stack, and SQL Server**  
+- 🚀 Currently learning **.NET and POSTGRESQL**  
 - 📝 Building projects to apply theory into real-world applications  
 
 ---
